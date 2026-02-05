@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "netflix-gpt-8ccac"
+  },
+  "targets": {
+    "netflix-gpt-8ccac": {
+      "hosting": {
+        "main-site": [
+          "my-gpt-cinema-123"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
